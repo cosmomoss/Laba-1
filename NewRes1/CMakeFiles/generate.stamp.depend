@@ -1,9 +1,9 @@
 # CMake generation dependency list for this directory.
-C:/Git/GitHub/CMake1/CMakeLists.txt
-C:/Git/GitHub/NewRes1/CMakeFiles/3.28.3/CMakeCCompiler.cmake
-C:/Git/GitHub/NewRes1/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake
-C:/Git/GitHub/NewRes1/CMakeFiles/3.28.3/CMakeRCCompiler.cmake
-C:/Git/GitHub/NewRes1/CMakeFiles/3.28.3/CMakeSystem.cmake
+C:/Git/Laba-1/CMake1/CMakeLists.txt
+C:/Git/Laba-1/NewRes1/CMakeFiles/3.28.3/CMakeCCompiler.cmake
+C:/Git/Laba-1/NewRes1/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake
+C:/Git/Laba-1/NewRes1/CMakeFiles/3.28.3/CMakeRCCompiler.cmake
+C:/Git/Laba-1/NewRes1/CMakeFiles/3.28.3/CMakeSystem.cmake
 C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in
 C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCCompilerABI.c
 C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake

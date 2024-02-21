@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Git\GitHub\CMake1\Lab_2.cpp">
+    <ClCompile Include="C:\Git\Laba-1\CMake1\Lab_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Git\GitHub\CMake1\CMakeLists.txt" />
+    <CustomBuild Include="C:\Git\Laba-1\CMake1\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{97802002-B523-3822-9036-03E7B9CCA80C}</UniqueIdentifier>
+      <UniqueIdentifier>{7BD35EFB-A6CD-3DAD-AD64-8B2862CE46C6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
